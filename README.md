@@ -1,4 +1,4 @@
-This is a warm-up project in OOP lecture of my Python Bootcamp.
+This is a warm-up project in OOP lecture of my Python Udemy Course.
 Implement the card game war. Rules are:
 
 1. Deal out deck of 52 cards between two users.
